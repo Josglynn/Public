@@ -1,2 +1,2 @@
 # Public
-# These are all exersizes that I performed after some lessons.
+# These are all exercises that I performed after some lessons.
